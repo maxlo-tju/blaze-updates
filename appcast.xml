@@ -26,5 +26,13 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B102/Maxlo-Blaze-2026-04-24-B102.dmg" type="application/octet-stream" sparkle:edSignature="tR0fVsmCMVtre2FPLFJguuusC9sXFS+qQXr/xk+HNUFsoyz5mdYoe+lqUSuhK6E0lrXFF5Gv/AMKlQNkqyEiDA==" length="4663927" />
         </item>
+          <item>
+            <title>Maxlo Blaze B103</title>
+            <pubDate>Fri, 24 Apr 2026 10:31:56 +0000</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>1.0.103</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B103/Maxlo-Blaze-2026-04-24-B103.dmg" type="application/octet-stream" sparkle:edSignature="bS+0Rm+8DeZJOIlm2i4Es9CliQNTVn5piDQb1kFTMfDLqMafVLLuTg5FFy2NtHabvEtOPyikhMUuxMXvPkYhAQ==" length="4668853" />
+        </item>
   </channel>
 </rss>
