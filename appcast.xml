@@ -3,6 +3,14 @@
   <channel>
     <title>Maxlo Blaze</title>
     <item>
+            <title>Maxlo Blaze B107</title>
+            <pubDate>Fri, 24 Apr 2026 15:55:43 +0000</pubDate>
+            <sparkle:version>107</sparkle:version>
+            <sparkle:shortVersionString>1.0.107</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B107/Maxlo-Blaze-2026-04-24-B107.dmg" type="application/octet-stream" sparkle:edSignature="syddqBpYQ92ZgP8CXlnFRnmSmhaxjj8BFcGhXypqPjJKxJzQ5cGrNnfc9o+Tu+SgvoW06SCNGYoAuyV6DyCgAg==" length="4685186" />
+        </item>
+    <item>
             <title>Maxlo Blaze B106</title>
             <pubDate>Fri, 24 Apr 2026 15:23:11 +0000</pubDate>
             <sparkle:version>106</sparkle:version>
