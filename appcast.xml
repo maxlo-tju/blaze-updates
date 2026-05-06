@@ -3,6 +3,14 @@
   <channel>
     <title>Maxlo Blaze</title>
     <item>
+            <title>Maxlo Blaze B133</title>
+            <pubDate>Wed, 06 May 2026 10:46:02 +0000</pubDate>
+            <sparkle:version>133</sparkle:version>
+            <sparkle:shortVersionString>1.0.133</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B133/Maxlo-Blaze-2026-05-06-B133.dmg" type="application/octet-stream" sparkle:edSignature="ogCwR8xHSLdHku9R6RRpfIaWcTZNqOX2BBaRX9rTWm2FKAUigsjDQpXajlTHWKbLz0OMaqq/2FZeWQPp+HR6AQ==" length="8998978" />
+        </item>
+    <item>
             <title>Maxlo Blaze B132</title>
             <pubDate>Wed, 06 May 2026 10:41:32 +0000</pubDate>
             <sparkle:version>132</sparkle:version>
