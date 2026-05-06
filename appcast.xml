@@ -3,6 +3,14 @@
   <channel>
     <title>Maxlo Blaze</title>
     <item>
+            <title>Maxlo Blaze B136</title>
+            <pubDate>Wed, 06 May 2026 11:09:22 +0000</pubDate>
+            <sparkle:version>136</sparkle:version>
+            <sparkle:shortVersionString>1.0.136</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B136/Maxlo-Blaze-2026-05-06-B136.dmg" type="application/octet-stream" sparkle:edSignature="C4lQMEjqIFXDW+sz9s3DUKv2EYSn0aoUB2SRGhojjHB+kclOtw6yFFazXzsyR7bobtTU1AomRlohT9lLyjRYBQ==" length="9051594" />
+        </item>
+    <item>
             <title>Maxlo Blaze B135</title>
             <pubDate>Wed, 06 May 2026 11:01:45 +0000</pubDate>
             <sparkle:version>135</sparkle:version>
