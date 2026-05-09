@@ -3,6 +3,14 @@
   <channel>
     <title>Maxlo Blaze</title>
     <item>
+            <title>Maxlo Blaze B161</title>
+            <pubDate>Sat, 09 May 2026 11:26:30 +0000</pubDate>
+            <sparkle:version>161</sparkle:version>
+            <sparkle:shortVersionString>1.0.161</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B161/Maxlo-Blaze-2026-05-09-B161.dmg" type="application/octet-stream" sparkle:edSignature="0dq2x6E6DuejfWSyZMmHqG3Iak0SiGoVwqJa4mjNjY7z0qmvPD2p5m46PzLL3U3rNFvxdWNEbopWCRvIhd2ZBw==" length="6541600" />
+        </item>
+    <item>
             <title>Maxlo Blaze B160</title>
             <pubDate>Sat, 09 May 2026 10:28:26 +0000</pubDate>
             <sparkle:version>160</sparkle:version>
