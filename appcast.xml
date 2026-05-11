@@ -3,6 +3,22 @@
   <channel>
     <title>Maxlo Blaze</title>
     <item>
+            <title>Maxlo Blaze B173</title>
+            <pubDate>Mon, 11 May 2026 13:08:42 +0000</pubDate>
+            <sparkle:version>173</sparkle:version>
+            <sparkle:shortVersionString>1.0.173</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B173/Maxlo-Blaze-2026-05-11-B173.dmg" type="application/octet-stream" sparkle:edSignature="NB3O/0S13FemV0erlIsTSJ07vE84D6GuDC6QNLB53qHA20ZzB62EdxVue96tV9PswGqovofWCr0obqJdjYbpCw==" length="6667958" />
+        </item>
+    <item>
+            <title>Maxlo Blaze B169</title>
+            <pubDate>Sun, 10 May 2026 02:28:32 +0000</pubDate>
+            <sparkle:version>169</sparkle:version>
+            <sparkle:shortVersionString>1.0.169</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B169/Maxlo-Blaze-2026-05-09-B169.dmg" type="application/octet-stream" sparkle:edSignature="lAJBibLg7OHsUjsU8EuU+ZmJO8FB/hLotZ0aHu5vnR9CDc2b4CwyldwY9slSdSOp+iR0+Hm7l/DwlVivfT+EDQ==" length="6663046" />
+        </item>
+    <item>
             <title>Maxlo Blaze B162</title>
             <pubDate>Sat, 09 May 2026 11:41:21 +0000</pubDate>
             <sparkle:version>162</sparkle:version>
