@@ -3,6 +3,14 @@
   <channel>
     <title>Maxlo Blaze</title>
     <item>
+            <title>Maxlo Blaze B178</title>
+            <pubDate>Tue, 12 May 2026 12:55:51 +0000</pubDate>
+            <sparkle:version>178</sparkle:version>
+            <sparkle:shortVersionString>1.0.178</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B178/Maxlo-Blaze-2026-05-12-B178.dmg" type="application/octet-stream" sparkle:edSignature="aGJW0c2DVAYxQSa7yVxMG4rURe2SobFtyzWq0bQln8sD2rmn9DqrobV4TaqVBb/h9iy5Jy2qU/4OIw/9c7gnAw==" length="6791042" />
+        </item>
+    <item>
             <title>Maxlo Blaze B177</title>
             <pubDate>Tue, 12 May 2026 02:28:32 +0000</pubDate>
             <sparkle:version>177</sparkle:version>
