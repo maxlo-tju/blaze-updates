@@ -3,6 +3,14 @@
   <channel>
     <title>Maxlo Blaze</title>
     <item>
+            <title>Maxlo Blaze B200</title>
+            <pubDate>Tue, 19 May 2026 11:29:58 +0000</pubDate>
+            <sparkle:version>200</sparkle:version>
+            <sparkle:shortVersionString>1.0.200</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxlo-tju/blaze-updates/releases/download/B200/Maxlo-Blaze-2026-05-19-B200.dmg" type="application/octet-stream" sparkle:edSignature="IAayVWSQMsSHowUxfMosGwSaRks/Bexwa/3IPNesXA82H9PKKLPiMo9qbo0jDDYvn3TcY0FwyQFKoTSyNmwxDg==" length="7000770" />
+        </item>
+    <item>
             <title>Maxlo Blaze B199</title>
             <pubDate>Tue, 19 May 2026 02:00:59 +0000</pubDate>
             <sparkle:version>199</sparkle:version>
